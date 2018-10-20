@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quản lý sinh viên</string>
+    <string name="title_activity_quanlylop">QuanlylopActivity</string>
+    <string name="title_activity_quanlysinhvien">QuanlysinhvienActivity</string>
+    <string name="notify_empty_name">Không để trống</string>
+    <string name="notify_empty_bo_trong">Khong bo trong</string>
+</resources>
